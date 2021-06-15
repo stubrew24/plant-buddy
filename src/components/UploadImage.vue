@@ -10,7 +10,7 @@
 
 		<div class="upload">
 			<label for="image-upload">
-				Upload Image
+				Select a File
 			</label>
 			<input
 				type="file"
